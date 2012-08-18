@@ -1,0 +1,1 @@
+{"namespace":"Keys","dev":"yes","index:controller":"Index","index:action":"IndexAction","mysql":{"host":"127.0.0.1","port":"8889","user":"root","pass":"root","database":"zule-key"}}

@@ -1,0 +1,1 @@
+<?php require '/Users/ryan/http/library/Smarty/Smarty.class.php';
